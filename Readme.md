@@ -2,7 +2,7 @@
 ## Made in Vue3, NodeJs, Lambda and ❤️
 ### Reference usage:
 
-Open live demo [](satcoride-video-gallery.vercel.app)
+Open live demo https://satcoride-video-gallery.vercel.app
 
 Wellcome view, list all saved videos
 ![Main Screen](/captures/01_empty_list.png)
